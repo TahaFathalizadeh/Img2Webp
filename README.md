@@ -1,4 +1,4 @@
-# WebP فارسی
+# Persian WebP
 
 A lightweight, client-side image converter for converting images to WebP format — built for Persian-speaking web developers and designers.
 
